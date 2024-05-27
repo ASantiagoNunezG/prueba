@@ -8,4 +8,5 @@ public class Usuario {
     @Id
     int id_usuario;
     String ga;
+    String uffff;
 }
