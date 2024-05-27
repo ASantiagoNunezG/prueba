@@ -7,5 +7,5 @@ import jakarta.persistence.Id;
 public class Usuario {
     @Id
     int id_usuario;
-
+    String ga;
 }
